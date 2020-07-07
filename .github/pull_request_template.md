@@ -2,7 +2,7 @@
 - [ ] - Title contains the issue #
 - [ ] - I have checked that I am merging into the correct branch
 - [ ] - The PR only reflect the file changes and the commit changes for this ticket. If not, specify:
-- [ ] - Do I need to merge with the feature branch before creating the PR?
+- [ ] - Do I need to merge the base branch into my issue branch?
 - [ ] - A full round of testing was conducted. List of tests include:
   1. Test1
   2. Test2 
